@@ -38,7 +38,7 @@ Through this analysis, I identified and examined DNS requests, the TCP 3-Way Han
 
 Wireshark was launched on the active network interface.
 
-A web browser session was opened and the LASU website was accessed while packet capture was running.
+A web browser session was opened and the UNILAG website was accessed while packet capture was running.
 
 After the website loaded successfully, the packet capture was stopped and saved for analysis.
 
